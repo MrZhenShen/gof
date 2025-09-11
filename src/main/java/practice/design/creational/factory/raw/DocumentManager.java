@@ -1,4 +1,4 @@
-package practice.design.creational.factorySuccess.raw;
+package practice.design.creational.factory.raw;
 
 public class DocumentManager {
     public Document createDocument(String type) {
@@ -9,6 +9,6 @@ public class DocumentManager {
         } else if (type.equalsIgnoreCase("excel")) {
             return new ExcelDocument();
         }
-        throw new IllegalArgumentException("Unknown document type: " + type);
+        throw new IllegalArgumentException("prototype document type: " + type);
     }
 }

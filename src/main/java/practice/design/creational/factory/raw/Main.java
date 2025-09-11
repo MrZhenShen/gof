@@ -1,4 +1,4 @@
-package practice.design.creational.factorySuccess.raw;
+package practice.design.creational.factory.raw;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package practice.design.creational.factorySuccess.raw;
+package practice.design.creational.factory.raw;
 
 interface Document {
     void open();

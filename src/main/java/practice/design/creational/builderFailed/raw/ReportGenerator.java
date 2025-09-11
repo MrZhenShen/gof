@@ -15,6 +15,6 @@ public class ReportGenerator {
                     "[PDF BODY: " + content + "]",
                     "[PDF FOOTER]");
         }
-        throw new IllegalArgumentException("Unknown report type: " + type);
+        throw new IllegalArgumentException("prototype report type: " + type);
     }
 }

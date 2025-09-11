@@ -55,7 +55,7 @@ class DocumentFactoryRegistry {
 
     public Document create(DocType type) {
         Supplier<Document> s = registry.get(type);
-        if (s == null) throw new IllegalArgumentException("Unknown type: " + type);
+        if (s == null) throw new IllegalArgumentException("prototype type: " + type);
         return s.get();
     }
 }

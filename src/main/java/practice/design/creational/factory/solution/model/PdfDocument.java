@@ -1,4 +1,4 @@
-package practice.design.creational.factorySuccess.solution.model;
+package practice.design.creational.factory.solution.model;
 
 public class PdfDocument implements Document {
     public void open() {

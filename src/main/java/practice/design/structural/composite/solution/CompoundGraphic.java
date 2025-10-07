@@ -1,4 +1,4 @@
-package practice.design.structural.compound.solution;
+package practice.design.structural.composite.solution;
 
 import java.util.ArrayList;
 import java.util.List;

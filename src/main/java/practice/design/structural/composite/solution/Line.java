@@ -1,4 +1,4 @@
-package practice.design.structural.compound.solution;
+package practice.design.structural.composite.solution;
 
 public class Line implements Graphic {
     private final int length;

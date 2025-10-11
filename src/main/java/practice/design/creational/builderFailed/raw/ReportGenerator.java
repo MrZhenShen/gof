@@ -1,4 +1,4 @@
-package practice.design.creational.builderFailed.raw;
+package practice.design.creational.builderfailed.raw;
 
 public class ReportGenerator {
     public Report generate(String type, String title, String content) {

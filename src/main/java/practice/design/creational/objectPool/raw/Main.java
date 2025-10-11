@@ -1,4 +1,4 @@
-package practice.design.creational.objectPool.raw;
+package practice.design.creational.objectpool.raw;
 
 import java.util.Random;
 

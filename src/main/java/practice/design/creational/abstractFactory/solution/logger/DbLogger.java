@@ -1,4 +1,4 @@
-package practice.design.creational.abstractFactory.solution.logger;
+package practice.design.creational.abstractfactory.solution.logger;
 
 public interface DbLogger {
     void log(String message);

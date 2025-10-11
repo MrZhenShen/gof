@@ -1,4 +1,4 @@
-package practice.design.creational.objectPool.solution;
+package practice.design.creational.objectpool.solution;
 
 public class Main {
     public static void main(String[] args) {

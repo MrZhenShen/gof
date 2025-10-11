@@ -1,4 +1,4 @@
-package practice.design.creational.objectPool.solution;
+package practice.design.creational.objectpool.solution;
 
 import java.util.ArrayList;
 import java.util.List;

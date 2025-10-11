@@ -1,9 +1,9 @@
-package practice.design.creational.abstractFactory.solution.factory;
+package practice.design.creational.abstractfactory.solution.factory;
 
-import practice.design.creational.abstractFactory.solution.connector.DbConnector;
-import practice.design.creational.abstractFactory.solution.connector.MongoConnector;
-import practice.design.creational.abstractFactory.solution.logger.DbLogger;
-import practice.design.creational.abstractFactory.solution.logger.MongoLogger;
+import practice.design.creational.abstractfactory.solution.connector.DbConnector;
+import practice.design.creational.abstractfactory.solution.connector.MongoConnector;
+import practice.design.creational.abstractfactory.solution.logger.DbLogger;
+import practice.design.creational.abstractfactory.solution.logger.MongoLogger;
 
 public class MongoFactory implements DbFactory {
 

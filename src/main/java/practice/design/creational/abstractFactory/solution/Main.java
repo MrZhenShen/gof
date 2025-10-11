@@ -1,7 +1,7 @@
-package practice.design.creational.abstractFactory.solution;
+package practice.design.creational.abstractfactory.solution;
 
-import practice.design.creational.abstractFactory.solution.factory.DbFactory;
-import practice.design.creational.abstractFactory.solution.factory.MySqlFactory;
+import practice.design.creational.abstractfactory.solution.factory.DbFactory;
+import practice.design.creational.abstractfactory.solution.factory.MySqlFactory;
 
 public class Main {
     public static void main(String[] args) {

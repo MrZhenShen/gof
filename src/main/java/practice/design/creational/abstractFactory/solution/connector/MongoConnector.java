@@ -1,4 +1,4 @@
-package practice.design.creational.abstractFactory.solution.connector;
+package practice.design.creational.abstractfactory.solution.connector;
 
 public class MongoConnector implements DbConnector {
     public void connect() {

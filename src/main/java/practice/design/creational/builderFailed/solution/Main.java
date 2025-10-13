@@ -1,9 +1,9 @@
-package practice.design.creational.builderFailed.solution;
+package practice.design.creational.builderfailed.solution;
 
-import practice.design.creational.builderFailed.solution.factory.HtmlReportFactory;
-import practice.design.creational.builderFailed.solution.factory.ReportFactory;
-import practice.design.creational.builderFailed.solution.factory.TextReportFactory;
-import practice.design.creational.builderFailed.solution.model.Report;
+import practice.design.creational.builderfailed.solution.factory.HtmlReportFactory;
+import practice.design.creational.builderfailed.solution.factory.ReportFactory;
+import practice.design.creational.builderfailed.solution.factory.TextReportFactory;
+import practice.design.creational.builderfailed.solution.model.Report;
 
 public class Main {
     public static void main(String[] args) {

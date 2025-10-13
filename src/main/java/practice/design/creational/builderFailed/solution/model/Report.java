@@ -1,9 +1,9 @@
-package practice.design.creational.builderFailed.solution.model;
-
-import practice.design.creational.builderFailed.solution.enums.ReportPart;
+package practice.design.creational.builderfailed.solution.model;
 
 import java.util.EnumMap;
 import java.util.Map;
+
+import practice.design.creational.builderfailed.solution.enums.ReportPart;
 
 public class Report {
     private final Map<ReportPart, String> content;

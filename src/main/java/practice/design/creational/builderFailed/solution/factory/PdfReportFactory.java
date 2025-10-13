@@ -1,6 +1,6 @@
-package practice.design.creational.builderFailed.solution.factory;
+package practice.design.creational.builderfailed.solution.factory;
 
-import practice.design.creational.builderFailed.solution.model.Report;
+import practice.design.creational.builderfailed.solution.model.Report;
 
 public class PdfReportFactory implements ReportFactory {
 

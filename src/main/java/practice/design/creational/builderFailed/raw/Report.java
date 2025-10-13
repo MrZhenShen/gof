@@ -1,4 +1,4 @@
-package practice.design.creational.builderFailed.raw;
+package practice.design.creational.builderfailed.raw;
 
 public class Report {
     private String header;

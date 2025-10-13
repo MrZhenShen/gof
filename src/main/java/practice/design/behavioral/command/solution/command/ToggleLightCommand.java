@@ -1,7 +1,7 @@
-package practice.design.behavioral.command.command;
+package practice.design.behavioral.command.solution.command;
 
-import practice.design.behavioral.command.provider.Light;
-import practice.design.behavioral.command.service.Remote;
+import practice.design.behavioral.command.solution.provider.Light;
+import practice.design.behavioral.command.solution.service.Remote;
 
 public class ToggleLightCommand extends Command<Boolean> implements ToggleCommand {
 

@@ -1,4 +1,4 @@
-package practive.design.creational.unkown;
+package practive.design.creational.prototype;
 
 import org.junit.jupiter.api.Test;
 import practice.design.creational.prototype.raw.Circle;

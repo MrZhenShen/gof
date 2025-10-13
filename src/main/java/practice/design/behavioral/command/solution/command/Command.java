@@ -1,6 +1,6 @@
-package practice.design.behavioral.command.command;
+package practice.design.behavioral.command.solution.command;
 
-import practice.design.behavioral.command.service.Remote;
+import practice.design.behavioral.command.solution.service.Remote;
 
 public abstract class Command<T> {
     public Remote remote;

@@ -1,6 +1,6 @@
-package practice.design.behavioral.command.command;
+package practice.design.behavioral.command.solution.command;
 
-import practice.design.behavioral.command.util.Action;
+import practice.design.behavioral.command.solution.util.Action;
 
 public interface ToggleCommand {
     default void toggle(

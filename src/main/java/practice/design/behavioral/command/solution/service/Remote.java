@@ -1,18 +1,18 @@
-package practice.design.behavioral.command.service;
+package practice.design.behavioral.command.solution.service;
 
 import java.util.EnumMap;
 import java.util.Map;
 
-import practice.design.behavioral.command.command.Command;
-import practice.design.behavioral.command.command.DecrementThermostatCommand;
-import practice.design.behavioral.command.command.IncrementThermostatCommand;
-import practice.design.behavioral.command.command.ToggleGarageDoorCommand;
-import practice.design.behavioral.command.command.ToggleLightCommand;
-import practice.design.behavioral.command.enums.RemoteButton;
-import practice.design.behavioral.command.provider.GarageDoor;
-import practice.design.behavioral.command.provider.Light;
-import practice.design.behavioral.command.provider.Thermostat;
-import practice.design.behavioral.command.util.Action;
+import practice.design.behavioral.command.solution.command.Command;
+import practice.design.behavioral.command.solution.command.DecrementThermostatCommand;
+import practice.design.behavioral.command.solution.command.IncrementThermostatCommand;
+import practice.design.behavioral.command.solution.command.ToggleGarageDoorCommand;
+import practice.design.behavioral.command.solution.command.ToggleLightCommand;
+import practice.design.behavioral.command.solution.enums.RemoteButton;
+import practice.design.behavioral.command.solution.provider.GarageDoor;
+import practice.design.behavioral.command.solution.provider.Light;
+import practice.design.behavioral.command.solution.provider.Thermostat;
+import practice.design.behavioral.command.solution.util.Action;
 
 public class Remote {
     private final Map<RemoteButton, Action> buttons;

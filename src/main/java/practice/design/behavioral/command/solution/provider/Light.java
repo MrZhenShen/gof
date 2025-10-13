@@ -1,4 +1,4 @@
-package practice.design.behavioral.command.provider;
+package practice.design.behavioral.command.solution.provider;
 
 public class Light {
     private boolean on;

@@ -1,7 +1,7 @@
-package practice.design.behavioral.command;
+package practice.design.behavioral.command.solution;
 
-import practice.design.behavioral.command.enums.RemoteButton;
-import practice.design.behavioral.command.service.Remote;
+import practice.design.behavioral.command.solution.enums.RemoteButton;
+import practice.design.behavioral.command.solution.service.Remote;
 
 public class Main {
     public static void main(String[] args) {

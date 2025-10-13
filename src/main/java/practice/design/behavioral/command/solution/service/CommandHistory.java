@@ -1,8 +1,8 @@
-package practice.design.behavioral.command.service;
+package practice.design.behavioral.command.solution.service;
 
 import java.util.Stack;
 
-import practice.design.behavioral.command.command.Command;
+import practice.design.behavioral.command.solution.command.Command;
 
 public class CommandHistory {
     private Stack<Command<?>> history = new Stack<>();

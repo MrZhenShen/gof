@@ -1,4 +1,4 @@
-package practice.design.behavioral.command.util;
+package practice.design.behavioral.command.solution.util;
 
 @FunctionalInterface
 public interface Action {
